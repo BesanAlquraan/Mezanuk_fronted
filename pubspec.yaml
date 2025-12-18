@@ -1,0 +1,30 @@
+name: my_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  fl_chart: ^0.69.0
+  shared_preferences: ^2.2.2
+  font_awesome_flutter: ^10.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/undraw_wallet_diag.png
+    - assets/undraw_savings_uwjn.png
+    - assets/undraw_mobile-payments_uate.png
+    - assets/undraw_data-reports_l2u3.png
+    - assets/undraw_crypto-flowers_5m2p.png
