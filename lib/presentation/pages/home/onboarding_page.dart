@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:my_app/constants/colors.dart';
-import 'package:my_app/ui/home/home_mobile.dart';
+import 'package:my_app/presentation/pages/home/home_mobile.dart';
 
 class OnboardingPage extends StatefulWidget {
   const OnboardingPage({super.key});

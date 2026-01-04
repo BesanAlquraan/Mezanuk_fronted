@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'home_web.dart';
+import 'home-web/home_page.dart';
 //import 'onboarding_page.dart';
 import 'splash_screen.dart'; 
 class HomeWrapper extends StatelessWidget {

@@ -28,3 +28,14 @@ const Color kShadowColor = Color(0x29000000);
 const Color kDotInactiveColor = Colors.grey;
 const Color kDotActiveColor = kPrimaryColor;
 const Color kLoadingColor = kPrimaryColor;
+
+const Color kCategoryBlue = Color(0xFF2196F3);
+const Color kCategoryGreen = Color(0xFF4CAF50);
+const Color kCategoryOrange = Color(0xFFFF9800);
+const Color kCategoryPurple = Color(0xFF9C27B0);
+const Color kCategoryRed = Color(0xFFF44336);
+const Color kCategoryTeal = Color(0xFF009688);
+const Color kCategoryPink = Color(0xFFE91E63);
+const Color kCategoryAmber = Color(0xFFFFC107);
+const Color kCategoryIndigo = Color(0xFF3F51B5);
+const Color kCategoryLime = Color(0xFFCDDC39);
