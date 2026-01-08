@@ -1,0 +1,11 @@
+{
+  "name": "mezanuk-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "serve build/web"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
