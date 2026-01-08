@@ -2,7 +2,8 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class BankApiService {
-  static const String baseUrl = "http://localhost:3000";
+static const String baseUrl =
+    "https://mezanuk1-backend-production.up.railway.app";
 
   // جلب كل الحسابات
   static Future<List<Map<String, dynamic>>> getAccounts() async {
